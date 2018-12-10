@@ -9,3 +9,6 @@ Examples of the Java FHIR API, [HAPI FHIR](http://hapifhir.io/), developed for a
 1. Run each file under the `examples` package to test them
 1. View results of these examples on this public FHIR server:
    1. http://hapi.fhir.org/baseDstu3/
+   
+### Additional tools/information:
+1. coming soon!
